@@ -1,5 +1,7 @@
-import  Typography  from "@mui/material/Typography";
+import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
+import FlowerImage from "./elda-coding-assesment/assets/flower-bg-remove.png";
+import YogaVideo from "./elda-coding-assesment/assets/yoga.mp4";
 const Hero = () => {
 	return (
 		<Container
@@ -35,7 +37,7 @@ const Hero = () => {
 					borderRadius: "14px",
 				}}
 			>
-				<source src="./elda-coding-assesment/assets/yoga.mp4" />
+				<source src={YogaVideo} />
 			</video>
 			<div
 				style={{
@@ -45,7 +47,7 @@ const Hero = () => {
 				}}
 			>
 				<img
-					src="./elda-coding-assesment/assets/flower-bg-remove.png"
+					src={FlowerImage}
 					height="20px"
 					width="25px"
 					style={{

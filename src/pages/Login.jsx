@@ -10,6 +10,7 @@ import EmailLogin from "../components/LoginComponents/EmailLogin";
 import { AuthContext } from "../context/authContext";
 import { useNavigate } from "react-router-dom";
 import OTPWindow from "../components/LoginComponents/EnterOTP";
+import FlowerImage from './elda-coding-assesment/assets/flower-bg-remove.png';
 
 const Login = () => {
 	const nodeRef = useRef(null);
@@ -47,7 +48,7 @@ const Login = () => {
 			}}
 		>
 			<img
-				src="./elda-coding-assesment/assets/flower-bg-remove.png"
+				src={FlowerImage}
 				style={{
 					height: "80px",
 					width: "88px",
