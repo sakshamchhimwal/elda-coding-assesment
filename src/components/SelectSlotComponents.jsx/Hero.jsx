@@ -1,7 +1,7 @@
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
-import FlowerImage from "./elda-coding-assesment/assets/flower-bg-remove.png";
-import YogaVideo from "./elda-coding-assesment/assets/yoga.mp4";
+import FlowerImage from "./assets/flower-bg-remove.png";
+import YogaVideo from "./assets/yoga.mp4";
 const Hero = () => {
 	return (
 		<Container

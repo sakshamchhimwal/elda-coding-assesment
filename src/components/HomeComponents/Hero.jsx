@@ -63,7 +63,7 @@ const Hero = () => {
 						}}
 						controls
 					>
-						<source src="./elda-coding-assesment/assets/yoga.mp4" />
+						<source src="./assets/yoga.mp4" />
 					</video>
 				</div>
 			</div>

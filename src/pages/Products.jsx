@@ -9,8 +9,8 @@ import { UserDetailsContext } from "../context/userContext";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import { AuthContext } from "../context/authContext";
 import { useNavigate } from "react-router-dom";
-import YogaImage from "./elda-coding-assesment/assets/yoga.jpg";
-import FlowerImage from "./elda-coding-assesment/assets/flower-bg-remove.png";
+import YogaImage from "./assets/yoga.jpg";
+import FlowerImage from "./assets/flower-bg-remove.png";
 
 const Products = () => {
 	const { plans } = useContext(UserDetailsContext);
