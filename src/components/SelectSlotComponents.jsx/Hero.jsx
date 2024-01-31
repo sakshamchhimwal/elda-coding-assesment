@@ -1,7 +1,5 @@
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
-import FlowerImage from "./assets/flower-bg-remove.png";
-import YogaVideo from "./assets/yoga.mp4";
 const Hero = () => {
 	return (
 		<Container
@@ -37,7 +35,7 @@ const Hero = () => {
 					borderRadius: "14px",
 				}}
 			>
-				<source src={YogaVideo} />
+				<source src="./assets/yoga.mp4" />
 			</video>
 			<div
 				style={{
@@ -47,7 +45,7 @@ const Hero = () => {
 				}}
 			>
 				<img
-					src={FlowerImage}
+					src="./assets/flower-bg-remove.png"
 					height="20px"
 					width="25px"
 					style={{

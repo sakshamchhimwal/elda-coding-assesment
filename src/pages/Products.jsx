@@ -9,8 +9,6 @@ import { UserDetailsContext } from "../context/userContext";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import { AuthContext } from "../context/authContext";
 import { useNavigate } from "react-router-dom";
-import YogaImage from "./assets/yoga.jpg";
-import FlowerImage from "./assets/flower-bg-remove.png";
 
 const Products = () => {
 	const { plans } = useContext(UserDetailsContext);
@@ -53,7 +51,7 @@ const Products = () => {
 					</Typography>
 					<Container component="div" disableGutters>
 						<img
-							src={YogaImage}
+							src="./assets/yoga.jpg"
 							width="100%"
 							height="100%"
 							style={{
@@ -68,7 +66,7 @@ const Products = () => {
 							}}
 						>
 							<img
-								src={FlowerImage}
+								src="./assets/flower-bg-remove.png"
 								height="20px"
 								width="25px"
 								style={{
