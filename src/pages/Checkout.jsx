@@ -43,6 +43,7 @@ const CheckOut = () => {
 			timeSlot,
 			startDate,
 		});
+		navigator("/home");
 	};
 
 	function handleClick(event) {
