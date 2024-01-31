@@ -51,7 +51,7 @@ const Products = () => {
 					</Typography>
 					<Container component="div" disableGutters>
 						<img
-							src="/elda-coding-assesment/assets/yoga.jpg"
+							src="./elda-coding-assesment/assets/yoga.jpg"
 							width="100%"
 							height="100%"
 							style={{
@@ -66,7 +66,7 @@ const Products = () => {
 							}}
 						>
 							<img
-								src="/elda-coding-assesment/assets/flower-bg-remove.png"
+								src="./elda-coding-assesment/assets/flower-bg-remove.png"
 								height="20px"
 								width="25px"
 								style={{
