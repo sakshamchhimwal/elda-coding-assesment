@@ -35,7 +35,7 @@ const Hero = () => {
 					borderRadius: "14px",
 				}}
 			>
-				<source src="/assets/yoga.mp4" />
+				<source src="/elda-coding-assesment/assets/yoga.mp4" />
 			</video>
 			<div
 				style={{
@@ -45,7 +45,7 @@ const Hero = () => {
 				}}
 			>
 				<img
-					src="/assets/flower-bg-remove.png"
+					src="/elda-coding-assesment/assets/flower-bg-remove.png"
 					height="20px"
 					width="25px"
 					style={{

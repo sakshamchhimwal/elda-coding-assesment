@@ -47,7 +47,7 @@ const Login = () => {
 			}}
 		>
 			<img
-				src="/assets/flower-bg-remove.png"
+				src="/elda-coding-assesment/assets/flower-bg-remove.png"
 				style={{
 					height: "80px",
 					width: "88px",
