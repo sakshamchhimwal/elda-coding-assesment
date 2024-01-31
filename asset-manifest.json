@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/elda-coding-assesment/static/css/main.0aaa1fed.css",
+    "main.js": "/elda-coding-assesment/static/js/main.3cdc8a25.js",
+    "static/js/787.d280764b.chunk.js": "/elda-coding-assesment/static/js/787.d280764b.chunk.js",
+    "index.html": "/elda-coding-assesment/index.html",
+    "main.0aaa1fed.css.map": "/elda-coding-assesment/static/css/main.0aaa1fed.css.map",
+    "main.3cdc8a25.js.map": "/elda-coding-assesment/static/js/main.3cdc8a25.js.map",
+    "787.d280764b.chunk.js.map": "/elda-coding-assesment/static/js/787.d280764b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aaa1fed.css",
+    "static/js/main.3cdc8a25.js"
+  ]
+}
