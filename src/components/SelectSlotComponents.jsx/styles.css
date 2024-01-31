@@ -1,0 +1,11 @@
+.button-shadow-right {
+	-webkit-box-shadow: 10px 0px 7px 0px rgba(201, 195, 201, 0.81);
+	-moz-box-shadow: 10px 0px 7px 0px rgba(201, 195, 201, 0.81);
+	box-shadow: 10px 0px 7px 0px rgba(201, 195, 201, 0.81);
+}
+
+.button-shadow-left {
+	-webkit-box-shadow: -10px 0px 7px 0px rgba(201, 195, 201, 0.81);
+	-moz-box-shadow: -10px 0px 7px 0px rgba(201, 195, 201, 0.81);
+	box-shadow: -10px 0px 7px 0px rgba(201, 195, 201, 0.81);
+}
